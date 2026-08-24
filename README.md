@@ -8,6 +8,8 @@ turning the output into something usable.
 Most of my work lives under [DPIRD-DMA](https://github.com/DPIRD-DMA) rather
 than on this account. Ten tools, nine on PyPI, 800,000+ downloads, 900+ stars.
 
+**[Read the full CV](https://github.com/wrignj08/CV)**
+
 **Models**
 
 | Tool | Purpose |
