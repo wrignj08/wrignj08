@@ -8,7 +8,7 @@ turning the output into something usable.
 Most of my work lives under [DPIRD-DMA](https://github.com/DPIRD-DMA) rather
 than on this account. Ten tools, nine on PyPI, 800,000+ downloads, 900+ stars.
 
-**[Read the full CV](https://github.com/wrignj08/CV)**
+**[Read the full CV](https://njw.id.au/cv/)**
 
 **Models**
 
@@ -47,4 +47,4 @@ than on this account. Ten tools, nine on PyPI, 800,000+ downloads, 900+ stars.
 [Google Scholar](https://scholar.google.com/citations?user=maMpLsYAAAAJ&hl=en) ·
 [ORCID](https://orcid.org/0000-0002-1344-874X) ·
 [LinkedIn](https://www.linkedin.com/in/nicholas-wright-92205985/) ·
-[Full CV](https://github.com/wrignj08/CV)
+[Full CV](https://njw.id.au/cv/)
