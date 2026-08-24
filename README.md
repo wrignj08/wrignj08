@@ -1,4 +1,4 @@
-## Nick Wright
+## Dr Nick Wright
 
 Senior Research Scientist at DPIRD in Western Australia, and Adjunct Research
 Fellow at UWA. I build deep learning models for satellite imagery, and the
